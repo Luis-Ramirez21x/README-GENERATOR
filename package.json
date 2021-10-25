@@ -1,0 +1,22 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis-Ramirez21x/README-GENERATOR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luis-Ramirez21x/README-GENERATOR/issues"
+  },
+  "homepage": "https://github.com/Luis-Ramirez21x/README-GENERATOR#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
