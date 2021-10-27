@@ -9,17 +9,17 @@ var createREADME = project => {
 #### ${project.description}
     
 ## Table of Contents
-* Installation(#inst)
+* [Installation](#installation)
 * [Usage](#usage)
 * Contributing
 * Tests
 * Questions
 * License
     
-## Installation <a name = 'inst'></a>
+## Installation 
 #### ${project.installInstructions}
     
-## Usage <a name='usage'></a>
+## Usage 
 #### ${project.usageInfo}
     
 ## Contributing
