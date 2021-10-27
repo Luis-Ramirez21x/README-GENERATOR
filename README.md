@@ -1,33 +1,32 @@
 # README-GENERATOR
-# nba
+# luis
     
 ## Project Description
-#### compare players
+#### ramires
     
 ## Table of Contents
-* Installation
-* Usage
+* Installation(#inst)
+* [Usage](#usage)
 * Contributing
 * Tests
 * Questions
 * License
     
-## Installation 
-#### no install required
+## Installation <a name = 'inst'></a>
+#### was 
     
-## Usage
-#### type in player name and search 
+## Usage <a name='usage'></a>
+#### born 
     
 ## Contributing
-#### luis only
+#### in 
     
 ## Tests
-#### test in console
+#### 1999
     
 ## Questions
-#### luis-ramirez21x
-#### luis21xs3
+#### http://github.com/in
+#### Please email me at georgia for an additional questions.
     
 ## License
-http://github.com
     
