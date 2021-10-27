@@ -1,9 +1,9 @@
 # README-GENERATOR
-# ${project.name}
-
+# nba
+    
 ## Project Description
-#### ${project.description}
-
+#### compare players
+    
 ## Table of Contents
 * Installation
 * Usage
@@ -11,21 +11,22 @@
 * Tests
 * Questions
 * License
-
+    
 ## Installation 
-#### ${project.installInstructions}
-
+#### no install required
+    
 ## Usage
-#### ${project.usageInfo}
-
+#### type in player name and search 
+    
 ## Contributing
-#### ${project.contributionGuidelines}
-
+#### luis only
+    
 ## Tests
-#### ${project.testInstructions}
-
+#### test in console
+    
 ## Questions
-#### ${project.githubUserName}
-
+#### luis-ramirez21x
+#### luis21xs3
+    
 ## License
-
+    

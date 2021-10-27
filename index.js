@@ -2,7 +2,38 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 
 var createREADME = project => {
-    return ``
+    return `# README-GENERATOR
+# ${project.name}
+    
+## Project Description
+#### ${project.description}
+    
+## Table of Contents
+* Installation
+* Usage
+* Contributing
+* Tests
+* Questions
+* License
+    
+## Installation 
+#### ${project.installInstructions}
+    
+## Usage
+#### ${project.usageInfo}
+    
+## Contributing
+#### ${project.contributionGuidelines}
+    
+## Tests
+#### ${project.testInstructions}
+    
+## Questions
+#### ${project.githubUserName}
+#### ${project.email}
+    
+## License
+    `
     
 }
 
@@ -43,4 +74,16 @@ inquirer
             message: 'Enter your github username',
             name: 'githubUserName',
         },
+        {
+            type: 'input',
+            message: 'Enter your email',
+            name: 'email',
+        }
     ])
+    .then((response) => 
+        createREADME(response)
+    )
+    .then((response) => 
+    fs.writeFile('README.md', response, (error, data) =>
+    error ? console.error(error) : console.log(data))
+    );
