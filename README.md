@@ -1,8 +1,8 @@
 [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
-# Nba Comparison App
+# ReadMe Generator
     
 ## Project Description
-#### Search players and compare their stats
+#### App will prompt you to enter crtical info for your project and genreate a README.md file
     
 ## Table of Contents
 * [Installation](#installation)
@@ -13,13 +13,13 @@
 * [License](#license)
     
 ## Installation 
-#### no installs required
+#### npm install inquirer
     
 ## Usage 
-#### type into search box and hit the search button
+#### node index.js in terminal
     
 ## Contributing
-#### Aaron, Aminur, and Luis
+#### none
     
 ## Tests
 #### No test instructions
