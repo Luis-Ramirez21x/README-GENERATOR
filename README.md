@@ -1,8 +1,8 @@
 [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
-# nba compare
+# Nba Comparison App
     
 ## Project Description
-#### seearch players and compare
+#### Search players and compare their stats
     
 ## Table of Contents
 * [Installation](#installation)
@@ -13,20 +13,20 @@
 * [License](#license)
     
 ## Installation 
-####  npm install
+#### no installs required
     
 ## Usage 
-#### use wisely
+#### type into search box and hit the search button
     
 ## Contributing
-#### none
+#### Aaron, Aminur, and Luis
     
 ## Tests
-#### testing
+#### No test instructions
     
 ## Questions
-#### http://github.com/luis21x
-#### Please email me at luis21xs3 for an additional questions.
+#### http://github.com/Luis-Ramirez21x
+#### Please email me at luis21xs3@gmail.com for an additional questions.
     
 ## License
 #### This application is covered under the Boost Software License 1.0.
