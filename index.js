@@ -9,17 +9,17 @@ var createREADME = project => {
 #### ${project.description}
     
 ## Table of Contents
-* Installation
-* Usage
+* Installation(#inst)
+* [Usage](#usage)
 * Contributing
 * Tests
 * Questions
 * License
     
-## Installation 
+## Installation <a name = 'inst'></a>
 #### ${project.installInstructions}
     
-## Usage
+## Usage <a name='usage'></a>
 #### ${project.usageInfo}
     
 ## Contributing
@@ -29,8 +29,8 @@ var createREADME = project => {
 #### ${project.testInstructions}
     
 ## Questions
-#### ${project.githubUserName}
-#### ${project.email}
+#### http://github.com/${project.githubUserName}
+#### Please email me at ${project.email} for an additional questions.
     
 ## License
     `
